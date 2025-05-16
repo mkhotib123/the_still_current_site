@@ -1,0 +1,33 @@
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to bottom, #fbc2eb 0%, #a6c1ee 100%);
+  color: #ffffff;
+  text-align: center;
+}
+header {
+  background-color: rgba(0,0,0,0.4);
+  padding: 2em;
+}
+main {
+  padding: 2em;
+}
+a {
+  color: #fff;
+  margin: 0 1em;
+  text-decoration: none;
+}
+nav {
+  margin-top: 1em;
+}
+.audio-player {
+  margin-top: 2em;
+}
+
+.mood-control {
+  margin-top: 2em;
+}
+input[type="range"] {
+  width: 60%;
+}
